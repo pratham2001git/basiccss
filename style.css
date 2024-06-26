@@ -1,0 +1,22 @@
+
+.frame{
+    
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    padding: 30px;
+    background-image: url(https://w0.peakpx.com/wallpaper/498/487/HD-wallpaper-morning-view.jpg);
+    margin: 30px;
+    background-size:cover;
+  
+
+
+}
+h1{
+    margin: 10px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-drawn-abstract-doodle-pattern_23-2149302090.jpg);
+    background-size: contain;
+
+}
